@@ -32,7 +32,7 @@
 
 ## 🚀 Live Demo
 
-**[View Live Application →](YOUR_RENDER_LINK_HERE)**
+**[View Live Application →](https://task-manager-api-2-kzi8.onrender.com/)**
 
 Try it out:
 1. Create a new task with title and description
@@ -469,3 +469,4 @@ If you found this project helpful, please give it a ⭐️!
 [🔝 Back to Top](#-task-manager-api)
 
 </div>
+
